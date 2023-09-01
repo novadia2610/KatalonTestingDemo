@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "87B6A766031DE08A0FED942897A4A57F",
+  "keywordClasses": [
+    {
+      "name": "nova.CustomNova",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LatihanTestSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>8ffb296b-9783-45de-b1be-a579de55dc48</testSuiteGuid>
+   <testCaseLink>
+      <guid>ca179db2-a211-4620-ae86-7c757559d10a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Latihan/EditFirstMiddleLast</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ce19163d-5e56-4923-a668-84feeba2a03e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ProfilesEmployee</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ce19163d-5e56-4923-a668-84feeba2a03e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>64736b7c-f979-49bd-bdc0-57ddf2a389bf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ce19163d-5e56-4923-a668-84feeba2a03e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MiddleName</value>
+         <variableId>07ea2c42-18fe-4d37-b50b-7d1b699132e0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ce19163d-5e56-4923-a668-84feeba2a03e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>e84a9b8b-14de-4bfb-8662-bc03aab611c1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0de2ff7c-75d1-4725-984e-63cb3e3db15b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Latihan/ClearText</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7d2d3255-30ad-407d-be4e-2a483dcf5fcc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DatabaseTest</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fdc7c2e8-81b4-40e2-bd7b-f5dc3f8eb1ec</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2fa8638d-76f2-4a9e-8bde-c7fa6dbe4fc4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

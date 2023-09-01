@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Infomation</name>
+   <tag></tag>
+   <elementGuidId>de6ed443-425a-41eb-a3a1-6cfbca72e70e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[1]/div[1]/aside/nav/div[2]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[1]/div[1]/aside/nav/div[2]/ul/li[6]/a</value>
+      <webElementGuid>628a1a2a-5461-45a4-9f9f-4e1dcc911229</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

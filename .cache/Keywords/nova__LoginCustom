@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "ECFFABA3E0ACA4A69C0BADF42FB1771F",
+  "keywordClasses": [
+    {
+      "name": "nova.LoginCustom",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

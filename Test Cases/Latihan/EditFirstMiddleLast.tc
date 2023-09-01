@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditFirstMiddleLast</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>970fe704-ee8a-4bec-aba2-e7a9c31fd7b9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64736b7c-f979-49bd-bdc0-57ddf2a389bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07ea2c42-18fe-4d37-b50b-7d1b699132e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e84a9b8b-14de-4bfb-8662-bc03aab611c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64736b7c-f979-49bd-bdc0-57ddf2a389bf</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07ea2c42-18fe-4d37-b50b-7d1b699132e0</id>
+      <masked>false</masked>
+      <name>MiddleName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e84a9b8b-14de-4bfb-8662-bc03aab611c1</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+</TestCaseEntity>
