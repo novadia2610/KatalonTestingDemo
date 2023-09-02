@@ -49,7 +49,7 @@
       <guid>0de2ff7c-75d1-4725-984e-63cb3e3db15b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Latihan/ClearText</testCaseId>
+      <testCaseId>Test Cases/Latihan/ClearTextt</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>7d2d3255-30ad-407d-be4e-2a483dcf5fcc</id>
