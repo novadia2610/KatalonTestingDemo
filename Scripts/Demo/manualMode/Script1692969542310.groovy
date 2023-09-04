@@ -29,12 +29,3 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
 WebUI.verifyTextPresent('Dashboard', false)
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Admin'))
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_PIM'))
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Leave'))
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Time'))
-
-
