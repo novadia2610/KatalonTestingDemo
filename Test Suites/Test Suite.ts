@@ -30,7 +30,7 @@
    <testCaseLink>
       <guid>18ca9a40-7764-4f03-86a7-2aebeaf0eb9a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Demo/recordMode</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -46,7 +46,7 @@
    <testCaseLink>
       <guid>0958f517-eff6-41ac-a929-ac2cad878844</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Demo/scriptMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
