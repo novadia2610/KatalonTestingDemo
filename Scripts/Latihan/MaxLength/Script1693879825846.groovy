@@ -13,15 +13,7 @@ import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword as OpenBrowserKeyword
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import com.sun.org.apache.bcel.internal.classfile.LocalVariable as LocalVariable
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def variableChelsea2 = "Chelsea"; //Variable private
-
-WebUI.openBrowser('')
-WebUI.navigateToUrl('https://www.google.com/webhp')
-WebUI.setText(findTestObject('Object Repository/InspectObjectGoogle/SearchBar'), variableChelsea2) //Variable Private
-WebUI.setText(findTestObject('Object Repository/InspectObjectGoogle/SearchBar'), VariableChelsea) //Variable Local

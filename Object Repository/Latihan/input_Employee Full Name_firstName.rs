@@ -3,15 +3,11 @@
    <description></description>
    <name>input_Employee Full Name_firstName</name>
    <tag></tag>
-   <elementGuidId>7f863971-6d08-47fa-ac4d-871aa7e56404</elementGuidId>
+   <elementGuidId>e7706913-0083-478a-9e0d-ba711ba452a3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>//input[@name='firstName']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@name = 'firstName' and @placeholder = 'First Name']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -26,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>71fc2cc8-bcff-4cd4-b10b-3f5b911584de</webElementGuid>
+      <webElementGuid>ff3510bf-a70d-4fc4-9c05-c9c3b77f52ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-input oxd-input--focus orangehrm-firstname</value>
-      <webElementGuid>51650d40-c38c-4755-b7f0-5a0c4a199db7</webElementGuid>
+      <webElementGuid>8599fe5d-1001-470d-931e-d8e7cb276b04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>firstName</value>
-      <webElementGuid>0e7eebd3-8819-4d40-a23b-55fc0df5b554</webElementGuid>
+      <webElementGuid>93532489-a144-4996-a8d3-4a44dc564cb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>First Name</value>
-      <webElementGuid>2190a9d4-ec80-4676-8271-b21e5a8d656f</webElementGuid>
+      <webElementGuid>a4d3ecff-ac4f-4810-943e-3c940d491c2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group&quot;]/div[@class=&quot;--name-grouped-field&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--focus orangehrm-firstname&quot;]</value>
-      <webElementGuid>87a0bdaa-73a9-409a-8a1d-0c68f4e1655d</webElementGuid>
+      <webElementGuid>2ab464c7-f830-4610-ba0a-c0e28a72af8c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='firstName']</value>
-      <webElementGuid>2ea53051-c801-43f3-bdf3-4e6631773b49</webElementGuid>
+      <webElementGuid>4b8706f7-f01c-44e9-9e96-127add84349b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div/div/div/div[2]/div/div[2]/input</value>
-      <webElementGuid>01b28b9e-8757-4dcb-8b3b-4a67c33fcf2b</webElementGuid>
+      <webElementGuid>2aa2b4d8-fc43-4e5f-a36e-e084e1e055fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>c1e1ec5a-492b-49f6-b814-ef9f76c4fff9</webElementGuid>
+      <webElementGuid>8be5f1a4-bd60-4dbe-bc85-ab1a655b619a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'firstName' and @placeholder = 'First Name']</value>
-      <webElementGuid>8fd59704-fa91-448a-933e-c16297f287c5</webElementGuid>
+      <webElementGuid>d28248fb-b1a2-47e8-810c-b7068705912f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
