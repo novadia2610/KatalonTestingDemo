@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>12c28daf-d6f0-4394-aad1-08d0d0af8752</webElementGuid>
+      <webElementGuid>c105e280-b656-44e2-9e0a-d68fd31d313d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-input oxd-input--active orangehrm-middlename</value>
-      <webElementGuid>d027a788-1f89-4d44-9ecb-5cc7b33aadd7</webElementGuid>
+      <value>oxd-input oxd-input--focus orangehrm-middlename</value>
+      <webElementGuid>88357807-a571-4bc7-80d2-c3d1f5a40777</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>middleName</value>
-      <webElementGuid>d469fcf8-2612-42cb-b63b-48525bb2b0f7</webElementGuid>
+      <webElementGuid>12608c59-5183-4809-9de2-904d755be5ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Middle Name</value>
-      <webElementGuid>df785dc2-259d-44ec-ba6e-7d690957c3b8</webElementGuid>
+      <webElementGuid>dd9bd9dc-0bfe-4888-a6b8-4f5b69ce8638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group&quot;]/div[@class=&quot;--name-grouped-field&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--active orangehrm-middlename&quot;]</value>
-      <webElementGuid>f92ea0e1-aa4c-49fa-8d39-9b00030634f7</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group&quot;]/div[@class=&quot;--name-grouped-field&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--focus orangehrm-middlename&quot;]</value>
+      <webElementGuid>f32acac1-c8ae-4149-ba8a-645cc412a615</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='middleName']</value>
-      <webElementGuid>e4a88caf-4401-426f-a583-813be95d8b85</webElementGuid>
+      <webElementGuid>2ef95134-35a6-4f10-9b4c-0253e404ed6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div/div/div/div[2]/div[2]/div[2]/input</value>
-      <webElementGuid>961fc1de-eba5-4096-a735-e5e34fe57aee</webElementGuid>
+      <webElementGuid>9b148258-ca46-4878-8c37-31401d330afc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/input</value>
-      <webElementGuid>ef4f2950-44ab-49e3-bd64-ba165be8c592</webElementGuid>
+      <webElementGuid>818de84b-c80a-4513-9e95-0e591aa368c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'middleName' and @placeholder = 'Middle Name']</value>
-      <webElementGuid>ec3b0386-e6dd-40ed-b711-63503a79c1de</webElementGuid>
+      <webElementGuid>07bedf36-15bc-4686-975d-1077928f14ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

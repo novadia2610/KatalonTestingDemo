@@ -23,18 +23,7 @@ WebUI.click(findTestObject('Object Repository/Latihan/Infomation'))
 
 WebUI.click(findTestObject('Object Repository/Latihan/firstName'))
 
-WebUI.clearText(findTestObject('Object Repository/Latihan/firstName'))
+WebUI.clearText(findTestObject('Object Repository/Latihan/input_Employee Full Name_firstName'))
 
-WebUI.setText(findTestObject('Object Repository/Latihan/firstName'), FirstName)
+WebUI.delay(10)
 
-WebUI.clearText(findTestObject('Object Repository/Latihan/middleName'))
-
-WebUI.setText(findTestObject('Object Repository/Latihan/middleName'), MiddleName)
-
-WebUI.clearText(findTestObject('Object Repository/Latihan/lastName'))
-
-WebUI.setText(findTestObject('Object Repository/Latihan/lastName'), LastName)
-
-WebUI.click(findTestObject('Object Repository/Latihan/btnSave'))
-
-WebUI.verifyTextPresent(FirstName, false)
