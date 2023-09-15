@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'login.loginCustom.loginOrange'(GlobalVariable.url, GlobalVariable.username, GlobalVariable.password)
+CustomKeywords.'Login.loginCustom.loginOrange'(GlobalVariable.url, GlobalVariable.username, GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/Latihan/Infomation'))
 

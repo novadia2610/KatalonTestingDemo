@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'login.loginCustom.loginHero'(GlobalVariable.url, GlobalVariable.username, GlobalVariable.password)
+CustomKeywords.'Login.loginCustom.loginHero'(GlobalVariable.url, GlobalVariable.username, GlobalVariable.password)
 
 WebUI.selectOptionByValue(findTestObject('Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center_5b4107'), 'Hongkong CURA Healthcare Center', 
     true)
