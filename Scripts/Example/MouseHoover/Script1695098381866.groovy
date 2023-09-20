@@ -19,15 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+WebUI.navigateToUrl('https://katalon.com/freemium?utm_term=_c_&utm_campaign=ID_Pmax_Freemium&utm_source=adwords&utm_medium=pmcs&hsa_acc=4390546474&hsa_cam=19731692373&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw6p-oBhAYEiwAgg2PgtBYPFc4vyqCCan2OMn_coUkaepwB6JmSWK97Pg4R8hOX545fxN-6xoCDRUQAvD_BwE')
 
-WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.maximizeWindow()
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
+WebUI.mouseOver(findTestObject('Object Repository/KatalonWeb/div_Solutions'))
 
-WebUI.verifyTextPresent('Dashboard', false)
+WebUI.click(findTestObject('Object Repository/KatalonWeb/div_Web Testing'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/KatalonWeb/h1_Web Testing'), 'Web Testing')
 
 WebUI.closeBrowser()
 
